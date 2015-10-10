@@ -1,0 +1,31 @@
+[0] This is the start state
+    2  4  3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+==>move right
+[1]
+ 2     4  3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+==>move right
+[2]
+ 2  4     3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+==>move down
+[3]
+ 2  4  8  3 
+10  5    11 
+12 14  9  7 
+ 1 13  6 15 
+==>move down
+[4]
+ 2  4  8  3 
+10  5  9 11 
+12 14     7 
+ 1 13  6 15 
+This is goal! Success!
+Number of moves required = 4
